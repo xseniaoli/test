@@ -1,3 +1,1 @@
-console.log("Hello from Git!");
-
-console.log("Feature work! :)");
+console.log("Fix work!");
